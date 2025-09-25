@@ -4,7 +4,7 @@
   "description": "# Easy Pool Miner",
   "main": "index.js",
   "scripts": {
-  "start": "node ./src/js/main.js"
+  "start": "node ./src/js/init.js"
 },
   "author": "RAMDEV",
   "license": "ISC"
