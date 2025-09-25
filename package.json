@@ -1,0 +1,11 @@
+{
+  "name": "easy_mine",
+  "version": "1.0.0",
+  "description": "# Easy Pool Miner",
+  "main": "index.js",
+  "scripts": {
+  "start": "node ./src/js/main.js"
+},
+  "author": "RAMDEV",
+  "license": "ISC"
+}
